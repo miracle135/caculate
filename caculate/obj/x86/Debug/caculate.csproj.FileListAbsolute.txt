@@ -1,0 +1,11 @@
+C:\Users\llenovo\Desktop\caculate\caculate\bin\Debug\caculate.exe
+C:\Users\llenovo\Desktop\caculate\caculate\bin\Debug\caculate.pdb
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\MainWindow.baml
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\MainWindow.g.cs
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\App.g.cs
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\caculate_MarkupCompile.cache
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\caculate.g.resources
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\caculate.Properties.Resources.resources
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\caculate.csproj.GenerateResource.Cache
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\caculate.exe
+C:\Users\llenovo\Desktop\caculate\caculate\obj\x86\Debug\caculate.pdb
